@@ -1,6 +1,6 @@
 # Computational Intelligence - Classification Assignment
 
-In this assignment, fuzzy TSK models are built to fit nonlineaar, multivariable functions, in order to solve classification problem.
+In this assignment, fuzzy TSK models are built to fit nonlinear, multivariable functions, in order to solve classification problem.
 
 ## Part 1
 The first part of the assignment is about the training process and the evaluation of four models. 
